@@ -1,0 +1,23 @@
+{
+  "name": "AI Companion App",
+  "short_name": "AI Companion",
+  "description": "Discover, create, and interact with AI companions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["productivity", "social", "entertainment"],
+  "icons": [],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Search",
+      "short_name": "Search",
+      "description": "Search for AI companions",
+      "url": "/search"
+    }
+  ]
+}
